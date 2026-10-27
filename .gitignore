@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.orig-bak
+_agent/
+# Built bundle — regenerate with ./sync_to_app.sh then codesign
+D-zip.app/
